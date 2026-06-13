@@ -54,7 +54,7 @@ CalculadoraDeVerbasRecisorias/
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/CalculadoraDeVerbasRecisorias.git
+git clone https://github.com/LucasFontesB/CalculadoraDeVerbasRecisorias.git
 cd CalculadoraDeVerbasRecisorias
 
 # 2. Crie um ambiente virtual (recomendado)
