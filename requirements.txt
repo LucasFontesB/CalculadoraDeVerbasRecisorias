@@ -1,0 +1,5 @@
+PyQt6>=6.4.0
+pandas>=2.0.0
+lxml>=4.9.0        # necessário para pd.read_html
+html5lib>=1.1      # parser alternativo para pd.read_html
+python-dateutil>=2.8.2
